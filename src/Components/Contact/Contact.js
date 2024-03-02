@@ -10,7 +10,7 @@ const Contact = () => {
         <h1>Contact</h1>
         <div className="contact_container">
             <p className='email'>
-                Email : <span>psanjai767@gmail.com</span>
+                Email : <span>sanjaiprasath68@gmail.com</span>
             </p>
             <p>
                 Github Username : <a href='https://github.com/Sanjai767?tab=repositories'><span>Sanjai767</span></a>
